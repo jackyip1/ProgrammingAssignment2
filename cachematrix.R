@@ -1,3 +1,5 @@
+##Jack Yip's Assignment #2
+
 ## Caching the Inverse of a Matrix (description taken from assignemnt):
 ## Matrix inversion is usually a costly computation and there may be some 
 ## benefit to caching the inverse of a matrix rather than compute it repeatedly.
